@@ -1,7 +1,7 @@
 # JGMS_NetBiomarker
 
 # Readme <br>
-Scripts for single sample network analysis using physiological biomarkers. <br>
+Scripts for single sample network analysis using physiological biomarkers. <br><br>
 run_SWEET.sh, Shell code for running SWEET[1] to generate the edge score files for each individual. <br>
 plot_NHANES.R, R code for network topology analysis using R package 'igraph', survival analysis and figures. <br>
 Sensitivity_Threshold.R, R code for survival analysis with different thresholds. <br>
