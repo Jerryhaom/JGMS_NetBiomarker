@@ -8,7 +8,7 @@ Sensitivity_Threshold.R, R code for survival analysis with different thresholds.
 Sensitivity_Biomarkers.R, R code for survival analysis with different biomarkers. <br>
 
 # Citation <br>
-Meng Hao et al. Metrics of physiological network topology are novel biomarkers to capture functional disability and health. Journal of Gerontology: Medical Science. In revision. <br>
+Meng Hao, Hui Zhang, Shuai Jiang, Zixin Hu, Xiaoyan Jiang, Jingyi Wu, Yi Li, Li Jin, Xiaofeng Wang, Metrics of physiological network topology are novel biomarkers to capture functional disability and health, The Journals of Gerontology: Series A, 2024;, glae268, https://doi.org/10.1093/gerona/glae268 <br>
 
 # Reference
 1. Chen HH et al. SWEET: a single-sample network inference method for deciphering individual features in disease. Brief Bioinform. 2023 Mar 19;24(2):bbad032. 
